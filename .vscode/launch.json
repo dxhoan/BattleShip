@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BattleShip",
+            "request": "launch",
+            "mainClass": "Main.BattleShip",
+            "projectName": "BattleShip_OOP_8cbdea11"
+        }
+    ]
+}
